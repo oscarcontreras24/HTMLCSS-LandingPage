@@ -116,4 +116,41 @@ section {
   padding: 0;
 }
 
+.nav-list {
+  padding-left: 0;
+  width: 575px;
+  margin-top: 10px;
+}
+
+.nav-list li a {
+  font-size: 16px;
+  font-weight 700;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+}
+
+.profile {
+  margin-left: auto;
+}
+
+.account {
+  text-align: right;
+  padding-left: 15px 15px;
+  color: #364147;
+  font-size: 18px;
+}
+
+.account li a {
+  font-size: 14px;
+}
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+}
+
+.profile-pic img {
+  border-radius: 100px;
+  max-width: 100%;
+}
 /***************************************/
