@@ -278,7 +278,7 @@ section {
   line-height: 1;
 }
 
-.full-banner-sidebar:after h4 {
+.full-banner-sidebar h4:after {
   content: "";
   width: 100px;
   height: 1px;
