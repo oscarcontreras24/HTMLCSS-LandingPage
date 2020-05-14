@@ -6,6 +6,7 @@ a { color: #faa541; text-decoration: none; }
 ul { padding: 0; margin: 0; list-style: none; }
 nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
+
 .container {
   margin-top: 0;
   margin-bottom: 0;
@@ -86,6 +87,17 @@ section {
 .header-nav {
   border-bottom: 1px;
   color: #a0a0a0;
+}
+.brand {
+  width: 170px;
+  height: 85px;
+  margin-left: -15px;
+  margin-right: 60px;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
 }
 
 /***************************************/
