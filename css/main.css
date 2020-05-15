@@ -388,9 +388,10 @@ footer a:hover {
 }
 
 .newsletter .link-subheader {
+  font-style: italic;
   font-size: 12px;
   font-weight: 400;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 .newsletter input {
