@@ -387,11 +387,10 @@ footer a:hover {
   margin-bottom: 5px;
 }
 
-.newletter .link-subheader {
-  font-style: italic;
+.newsletter .link-subheader {
   font-size: 12px;
   font-weight: 400;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .newsletter input {
@@ -422,6 +421,14 @@ footer a:hover {
   padding: 0 30px;
 }
 
+.demo:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin: 30px 0;
+  background: linear-gradient(to right, #f05a28 0, #e80a89 100%);
+}
 .copyright {
   flex: 0 0 75%;
   padding: 10px 0;
